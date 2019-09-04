@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Apple iPhone 5c",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. Nullam maximus eros ut tortor ultricies rutrum. Aliquam euismod lacus non est egesta",
+    "price": 823,
+    "image": "/uploads/iphone5c-selection-hero-2013.png"
+  },
+  {
+    "id": "2",
+    "title": "Apple iPhone 6",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. Nullam maximus eros ut tortor ultricies rutrum. Aliquam euismod lacus non est egesta",
+    "price": 953,
+    "image": "/uploads/51u6y9Rm8QL._SY300_.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Lenovo A6000",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. Nullam maximus eros ut tortor ultricies rutrum. Aliquam euismod lacus non est egesta",
+    "price": 764,
+    "image": "/uploads/_35%20(1).JPG"
+  },
+  {
+    "id": "4",
+    "title": "Nokia Lumia 1520",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. Nullam maximus eros ut tortor ultricies rutrum. Aliquam euismod lacus non est egesta",
+    "price": 674,
+    "image": "/uploads/Lumia1520-Front-Back-png.png"
+  },
+  {
+    "id": "5",
+    "title": "HTC One",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. Nullam maximus eros ut tortor ultricies rutrum. Aliquam euismod lacus non est egesta",
+    "price": 674,
+    "image": "/uploads/htc-one-m7-802w-dual-sim-silver.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Samsung Galaxy S6",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. Nullam maximus eros ut tortor ultricies rutrum. Aliquam euismod lacus non est egesta",
+    "price": 674,
+    "image": "/uploads/Agnes_Case_for_Samsung_Galaxy_S6_(1)__92643_thumb.jpg"
+  }
+]
